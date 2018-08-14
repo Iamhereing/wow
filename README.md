@@ -1,4 +1,4 @@
-# wow
+# 百度logo爬虫代码
 import requests
 
 if __name__ == '__main__':
